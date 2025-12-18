@@ -18,13 +18,13 @@ Building production-grade AI & Blockchain systems for real-world scale
 </p>
 
 <p align="center">
-  <a href="https://rashid.dev">
+  <a href="https://rashidali.dev">
     <img src="https://img.shields.io/badge/Portfolio-rashid.dev-black?style=for-the-badge&logo=google-chrome">
   </a>
-  <a href="https://www.linkedin.com/in/rashidali">
+  <a href="https://www.linkedin.com/in/rashid-ali-cinqdev/">
     <img src="https://img.shields.io/badge/LinkedIn-Rashid_Ali-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:rashid.ali@example.com">
+  <a href="mailto:rashidkhokhar98@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
