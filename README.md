@@ -31,14 +31,15 @@ Building production-grade AI & Blockchain systems for real-world scale
 
 ---
 
-## 🚀 Executive Summary (For Recruiters & Founders)
+## 🚀 Summary
 
 I am a **Senior Full-Stack AI & Blockchain Engineer** with **5+ years** of experience building:
 
-- 🤖 **AI SaaS platforms & real-time voice systems**
-- 🔗 **Solana smart contracts (Rust / Anvhor)**
-- 🌐 **Scalable Next.js & Node.js backends**
-- 🧠 **Research-driven, security-focused architectures**
+-  **AI SaaS platforms & real-time voice systems**
+-  **Solana smart contracts (Rust / Anvhor)**
+-  **Web3 integration and React Frontend**
+-  **Scalable Next.js & Node.js backends**
+-  **Research-driven, security-focused architectures**
 
 I specialize in **turning ideas into production systems**, from **protocol design → smart contracts → frontend → payments → scaling**.
 
@@ -47,20 +48,20 @@ I specialize in **turning ideas into production systems**, from **protocol desig
 ## 🧠 Core Technology Stack
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
 
 ### Blockchain / Web3
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=plastic&logo=solana&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor_Framework-512BD4?style=flat-square)
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum)
@@ -68,7 +69,7 @@ I specialize in **turning ideas into production systems**, from **protocol desig
 
 ### DevOps & Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 
 ---
@@ -83,7 +84,7 @@ I specialize in **turning ideas into production systems**, from **protocol desig
 
 ---
 
-## 🏗️ Selected Projects (Founder-Grade Work)
+## 🏗️ Selected Projects 
 
 ### 🌌 AstroMind – AI SaaS Platform
 ![AstroMind](assets/projects/astromind.gif)
@@ -132,36 +133,21 @@ A mobile platform connecting users with verified blue-collar professionals acros
 
 ## 🔬 Advanced Blockchain Engineering
 
-- 🔁 **Solana Arbitrage Bot** – Dex price difference trading
-- 🔐 **Invostash** – Solana smart contracts (Rust + Anchor)
-- 🪙 **PayKingdom** – ICO platform for EVM chains
-- 🏪 **MintsClub** – Multichain NFT marketplace
-- 🎨 **Immutabulls / AcidToadz / MellowMen** – NFT minting & staking
+-  **Solana Arbitrage Bot** – Dex price difference trading
+-  **Invostash** – Solana smart contracts (Rust + Anchor)
+-  **PayKingdom** – ICO platform for EVM chains
+-  **MintsClub** – Multichain NFT marketplace
+-  **Immutabulls / AcidToadz / MellowMen** – NFT minting & staking
 
 ---
 
 ## 🤖 AI Engineering
 
-- 🗣️ **AI Voice & Audio Systems (Node.js)**  
-  Built and debugged real-time AI voice calling systems, focusing on audio streaming, chunking, buffering, and call state handling to ensure audible and low-latency TTS delivery.
-
-- 🔊 **Text-to-Speech Integration (Production)**  
-  Integrated ElevenLabs TTS (v2.x) and OpenAI-based text generation into Node.js services, handling signed URLs, audio formats (PCM / OPUS), and chunk sizes (1024 / 640 / 320).
-
-- 🧩 **Audio Chunking & Streaming Optimization**  
-  Implemented chunking strategies to avoid distortion and silence issues during live calls, including proper codec alignment and stream lifecycle management.
-
-- 🤖 **LLM Integration (Application Level)**  
-  Integrated GPT-based models for conversational flows, prompt handling, and response formatting within backend services and APIs.
-
-- 📄 **Document Processing & Embeddings (RAG Foundations)**  
-  Worked on PDF ingestion, text chunking, embeddings, and semantic search using vector databases as part of a question-answering system.
-
-- 📊 **Machine Learning (Academic & Applied)**  
-  Designed and implemented ensemble-based predictive models for diabetes detection, published in IEEE Xplore.
-
-- ⚙️ **AI-Driven SaaS Development**  
-  Developed **AstroMind**, an AI-powered SaaS platform with user/admin panels and Stripe subscriptions, delivering ML-based insights.
+-  **AI Voice & Audio Systems** – Real-time streaming, chunking, low-latency TTS (Node.js)  
+-  **LLM Integration** – GPT-based conversational APIs and prompt handling  
+-  **RAG & Document Processing** – PDF ingestion, embeddings, semantic search  
+-  **Machine Learning** – Ensemble predictive models, IEEE-published research  
+-  **AI SaaS** – AstroMind platform with admin panels and Stripe subscriptions
 
 ---
 
