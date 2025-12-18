@@ -1,0 +1,32 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install github-contribution-snake
+        run: npm install -g github-contribution-snake
+
+      - name: Generate Snake
+        run: snake --username rashidkhokhar98 --output ./github-contribution-grid-snake.svg --theme radical
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push
