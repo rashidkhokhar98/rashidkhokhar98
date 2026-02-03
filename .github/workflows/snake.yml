@@ -23,10 +23,11 @@ jobs:
       - name: Generate Snake
         run: snake --username rashidkhokhar98 --output ./github-contribution-grid-snake.svg --theme radical
 
-      - name: Commit & Push
+      - name: Commit & Push to output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add github-contribution-grid-snake.svg
           git commit -m "Update contribution snake"
-          git push
+          git push origin HEAD:output --force
+
