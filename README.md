@@ -164,7 +164,7 @@ A mobile platform connecting users with verified blue-collar professionals acros
 
 ## 🐍 Contribution Snake (Animated)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/master/snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/rashidkhokhar98/rashidkhokhar98/output/github-contribution-grid-snake.svg)
 
 ---
 
