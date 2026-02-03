@@ -13,19 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install Node.js
-        uses: actions/setup-node@v3
+      - name: Generate contribution snake
+        uses: platane/snk/svg-only@v3
         with:
-          node-version: '20'
-
-      - name: Install GitHub Contribution Snake
-        run: npm install -g github-contribution-snake
-
-      - name: Generate Snake SVGs
-        run: |
-          mkdir -p dist
-          snake --username rashidkhokhar98 --output dist/github-contribution-grid-snake.svg --theme radical
-          snake --username rashidkhokhar98 --output dist/github-contribution-grid-snake-dark.svg --theme dark
+          github_user_name: rashidkhokhar98
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         run: |
